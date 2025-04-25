@@ -102,8 +102,9 @@ For production applications, consider enabling type-aware lint rules with TypeSc
 - Add [`typescript-eslint`](https://typescript-eslint.io) for enhanced linting with type safety.
 
 ---
+## 📝 Demo video
 
-
+https://www.loom.com/share/e8e986d78ab44c31a1774a04a5d21844?sid=6fd3cf21-274d-49f1-a3a8-08a081bd8e2f
 
 ## 📝 Thought Process
 1. **Project Setup**:
