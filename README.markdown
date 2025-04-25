@@ -103,11 +103,7 @@ For production applications, consider enabling type-aware lint rules with TypeSc
 
 ---
 
-## 📹 Demo
-*Insert your demo GIF or video link here.*  
-*Record a 2–5 minute walkthrough showing the UI layout, live price updates, state flow, and your thought process. Upload to a platform like GitHub, YouTube, or Imgur, and add the link here.*
 
----
 
 ## 📝 Thought Process
 1. **Project Setup**:
@@ -132,6 +128,3 @@ For production applications, consider enabling type-aware lint rules with TypeSc
    - Ensured the WebSocket connection works in a production environment.
 
 ---
-
-## 📅 Submission Deadline
-This project was submitted as part of the Real-Time Crypto Price Tracker assignment, with a deadline of **25 April, 2025**.
