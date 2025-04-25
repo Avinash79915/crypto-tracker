@@ -5,10 +5,10 @@ Build a responsive React + Redux Toolkit app that tracks real-time cryptocurrenc
 
 🚀 **Live Demo**:  
 [View the deployed app on Vercel](https://your-vercel-app-url.vercel.app)  
-*Replace the above URL with your actual Vercel deployment link.*
+
 
 ## 📘 Assignment Overview
-This project fulfills the requirements of the **Real-Time Crypto Price Tracker** assignment, due on **25 April, 2025**. It displays real-time prices for 5 cryptocurrencies, styled to match the provided design, with enhanced charts, downloaded logo images, a minimalist UI, and WebSocket integration for live updates.
+This project fulfills the requirements of the **Real-Time Crypto Price Tracker**. It displays real-time prices for 5 cryptocurrencies, styled to match the provided design, with enhanced charts, downloaded logo images, a minimalist UI, and WebSocket integration for live updates.
 
 ---
 
